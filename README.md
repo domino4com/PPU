@@ -16,3 +16,6 @@ PPU Power Programmer USB-A
 - :warning: Unlike what is stated in the datasheet, this converter chip cannot use a transfer speed of 921600 bps. Maximum transfer speed in Arduino is 460800 bps. However if you use a tool where you can specify transfer speed, such as the [ESPTOOL](https://github.com/espressif/esptool), then you can also use a transfer speed of 1000000 bps.
   - https://github.com/espressif/esptool/issues/435
 
+## Troubleshooting
+- Install Arduino first. Arduino installs drivers for most boards in most operating systems. Download [Arduino](https://www.arduino.cc/en/software)
+- If you still have issues seeing your serial port, then install drivers from [WinChipHead (WCH)](http://www.wch-ic.com/search?q=CH340&t=downloads).
