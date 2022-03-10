@@ -1,3 +1,5 @@
+<img src="assets/PPU.svg" width=200 align="right">
+
 # PPU Power Programmer USB-A
 PPU Power Programmer USB-A
 
